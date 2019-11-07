@@ -3,7 +3,7 @@
 
 .DATA
     NUM DB 00001011B    ;Initilize a 8bit binary number
-    COUNT DB 8         ;count = 16
+    COUNT DB 8         ;count = 8
     
 .CODE
 MAIN PROC
